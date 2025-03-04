@@ -1,0 +1,10 @@
+boto3
+spotipy
+pylast
+pandas
+requests
+urllib3
+python-dateutil
+six
+certifi
+chardet
